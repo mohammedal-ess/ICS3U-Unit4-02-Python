@@ -64,7 +64,7 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="32" value="&lt;h2 style=&quot;box-sizing: border-box ; line-height: 14px ; margin-top: 20px ; margin-bottom: 10px&quot;&gt;&lt;font face=&quot;arial, helvetica, open sans&quot;&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 500&quot;&gt;it is not integer number&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h2&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+                <mxCell id="32" value="&lt;h2 style=&quot;box-sizing: border-box ; line-height: 14px ; margin-top: 20px ; margin-bottom: 10px&quot;&gt;&lt;font face=&quot;arial, helvetica, open sans&quot;&gt;&lt;span style=&quot;font-size: 12px ; font-weight: 500&quot;&gt;it is not integer number.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/h2&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
                     <mxGeometry x="233" y="283.75" width="170" height="82.5" as="geometry"/>
                 </mxCell>
                 <mxCell id="33" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;" edge="1" parent="1" source="34" target="36">
